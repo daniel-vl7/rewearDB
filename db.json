@@ -193,33 +193,6 @@
       "time": "3:00 pm"
     }
   ],
-  "users": [
-    {
-      "id": 2,
-      "name": "John Doe",
-      "email": "john@gmail.com"
-    },
-    {
-      "id": 3,
-      "name": "Linda Smith",
-      "email": "linda@gmail.com"
-    },
-    {
-      "id": 4,
-      "name": "David Johnson",
-      "email": "david@gmail.com"
-    },
-    {
-      "id": 5,
-      "name": "Sarah Brown",
-      "email": "sarah@gmail.com"
-    },
-    {
-      "id": 6,
-      "name": "Michael Wilson",
-      "email": "michael@gmail.com"
-    }
-  ],
   "comments": [
     {
       "id": 1,
