@@ -199,21 +199,21 @@
       "title": "Primer Comentario",
       "content": "Este es el contenido del primer comentario",
       "emoji": "😀",
-      "videoUrl": "https://www.youtube.com/watch?v=o0yUfnyWC7Y&ab_channel=Kalcetoo"
+      "imageUrl": "https://miro.medium.com/v2/resize:fit:1400/1*FKk-PVDpOvePXWB7frLnDg.png"
     },
     {
       "id": 2,
       "title": "Segundo Comentario",
       "content": "Este es el contenido del segundo comentario",
       "emoji": "😀",
-      "videoUrl": "https://www.youtube.com/watch?v=o0yUfnyWC7Y&ab_channel=Kalcetoo"
+      "imageUrl": "https://miro.medium.com/v2/resize:fit:1400/1*FKk-PVDpOvePXWB7frLnDg.png"
     },
     {
       "id": 3,
       "title": "Tercer Comentario",
       "content": "Este es el contenido del tercer comentario",
       "emoji": "😀",
-      "videoUrl": "https://www.youtube.com/watch?v=o0yUfnyWC7Y&ab_channel=Kalcetoo"
+      "imageUrl": "https://miro.medium.com/v2/resize:fit:1400/1*FKk-PVDpOvePXWB7frLnDg.png"
     }
   ]
 }
