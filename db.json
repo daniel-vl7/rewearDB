@@ -193,27 +193,32 @@
       "time": "3:00 pm"
     }
   ],
-  "comments": [
+  "cards": [
     {
       "id": 1,
-      "title": "Primer Comentario",
-      "content": "Este es el contenido del primer comentario",
-      "emoji": "😀",
-      "imageUrl": "https://miro.medium.com/v2/resize:fit:1400/1*FKk-PVDpOvePXWB7frLnDg.png"
+      "title": "Pecas Derm",
+      "rating": "⭐⭐⭐⭐⭐",
+      "description": "Tu clínica veterinaria especializada en dermatología animal. Nuestros expertos cuidan la piel y pelaje de tus mascotas con pasión y precisión. Garantizamos su salud y confort en cada visita.",
+      "address": "Plaza San José, 72190 Puebla, Pue., México",
+      "phoneNumber": "012740159",
+      "imageUrl": "https://www.simbiotia.com/wp-content/uploads/diseno-de-clinicas-veterinarias.jpg"
     },
     {
       "id": 2,
-      "title": "Segundo Comentario",
-      "content": "Este es el contenido del segundo comentario",
-      "emoji": "😀",
-      "imageUrl": "https://miro.medium.com/v2/resize:fit:1400/1*FKk-PVDpOvePXWB7frLnDg.png"
+      "title": "Hemvet",
+      "rating": "⭐⭐⭐⭐",
+      "description": "Tu clínica veterinaria de confianza. Nos dedicamos a la salud y el bienestar de tus mascotas. Nuestros veterinarios altamente calificados están aquí para cuidar y proteger a tus fieles amigos\n" ,
+      "address": "Av. Villa María 749, Villa María del Triunfo 15809",
+      "phoneNumber": "012811046",
+      "imageUrl": "https://images.pexels.com/photos/5731866/pexels-photo-5731866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
       "id": 3,
-      "title": "Tercer Comentario",
-      "content": "Este es el contenido del tercer comentario",
-      "emoji": "😀",
-      "imageUrl": "https://miro.medium.com/v2/resize:fit:1400/1*FKk-PVDpOvePXWB7frLnDg.png"
-    }
-  ]
+      "title": " MediCan",
+      "rating": "⭐⭐⭐⭐",
+      "description": " Confía en nuestros médicos veterinarios y groomers dedicados, quienes están comprometidos en brindar un servicio excepcional para el cuidado y la felicidad de tu querida mascota. Siempre a tu disposición" ,
+      "address": "Av. los Fresnos 1205, La Molina 15024",
+      "phoneNumber": " 012750806",
+      "imageUrl": "https://medios.clinicaveterinariamadrid.es/logo_web_cvmedican.svg"
+    }] 
 }
